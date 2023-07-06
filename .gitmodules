@@ -1,0 +1,3 @@
+[submodule "practical-astronomy-cpp"]
+	path = practical-astronomy-cpp
+	url = https://github.com/jfcarr/practical-astronomy-cpp/
