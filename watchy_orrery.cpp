@@ -9,7 +9,7 @@ void WatchyOrrery::drawWatchFace() {
 
   uint16_t angles[9] = {0, 0, 10, 20, 30, 40, 50, 60, 70};
 
-  //std::tuple<double, double, double, double, double, double> result = paPlanet.ApproximatePositionOfPlanet(0, 0, 0, false, 0, 22, 11, 2003, "Jupiter");
+  std::tuple<double, double, double, double, double, double> result = paPlanet.ApproximatePositionOfPlanet(0, 0, 0, false, 0, 22, 11, 2003, "Jupiter");
 
   // neptune
   display.drawCircle(100,  100,  offsets[8], GxEPD_BLACK);

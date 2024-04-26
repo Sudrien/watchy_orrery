@@ -1,5 +1,7 @@
 # watchy_orrery
 
+Tested with Watchy 1.4.10 - yep still broken
+
 
 `git submodule update` to get  https://github.com/jfcarr/practical-astronomy-cpp subrepo
 
